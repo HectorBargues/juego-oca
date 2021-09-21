@@ -1,0 +1,20 @@
+tr {
+    height: 50px; 
+}
+
+td {
+            
+    text-align: center
+   
+}
+
+#casilla1 {
+
+    background-color: purple;
+}
+
+
+#casilla30 {
+
+   background-color: yellow; 
+}
